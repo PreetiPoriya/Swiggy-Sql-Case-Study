@@ -29,7 +29,7 @@ SQL-based analysis of Swiggy food delivery data to uncover customer behavior, re
 11. Discover the most frequently paired products.
 
 # Dataset
-The dataset contains information about users, restaurants, orders, menu, food items, and order details
+The dataset contains information about users, restaurants, orders, menu, food items, and order details.
 
 ## Files
 
