@@ -27,3 +27,6 @@ SQL-based analysis of Swiggy food delivery data to uncover customer behavior, re
 9. Identify the most loyal customers for each restaurant.
 10. Analyze month-over-month revenue growth of a particular restaurant
 11. Discover the most frequently paired products.
+
+# Dataset
+The dataset contains information about users, restaurants, orders, menu, food items, and order details
