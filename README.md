@@ -30,3 +30,8 @@ SQL-based analysis of Swiggy food delivery data to uncover customer behavior, re
 
 # Dataset
 The dataset contains information about users, restaurants, orders, menu, food items, and order details
+
+## Files
+
+- `queries.sql` : Contains all SQL solutions.
+- `swiggy-schema.xlsx` : Dataset schema and table structure.
